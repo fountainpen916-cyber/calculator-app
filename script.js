@@ -41,8 +41,7 @@ function calculate() {
         }, 1500);
     }
 }
-
-/* function calculatePercentage() {
+function calculatePercentage() {
     try {
         currentInput = (eval(currentInput) / 100).toString();
         updateDisplay();
@@ -54,5 +53,4 @@ function calculate() {
             updateDisplay();
         }, 1500);
     }
-}*/
-
+}
